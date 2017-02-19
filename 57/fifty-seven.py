@@ -16,7 +16,4 @@ for el in v:
         num+=1
 
 print num
-
-
-
-#solution: 
+#solution: 153
